@@ -1,0 +1,593 @@
+{
+  "title": {
+    "text": {
+      "headline": "Constitution of the United States",
+      "text": "<p>A timeline of the seven original Articles (ratified 1788) and the 27 Amendments (1791\u20131992) to the U.S. Constitution.</p>"
+    },
+    "media": {
+      "url": "../images/constitution.jpg",
+      "caption": "Original 1787 engrossed copy, National Archives",
+      "credit": "Public domain"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "1788",
+        "month": "06",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Article I",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Article_One_of_the_United_States_Constitution\">Read on Wikipedia</a><br/>Legislative Branch.</p>"
+      },
+      "media": {
+        "url": "../images/article-1.jpg",
+        "caption": "Article I",
+        "credit": ""
+      },
+      "group": "Articles"
+    },
+    {
+      "start_date": {
+        "year": "1788",
+        "month": "06",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Article II",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Article_Two_of_the_United_States_Constitution\">Read on Wikipedia</a><br/>Executive Branch.</p>"
+      },
+      "media": {
+        "url": "../images/article-2.jpg",
+        "caption": "Article II",
+        "credit": ""
+      },
+      "group": "Articles"
+    },
+    {
+      "start_date": {
+        "year": "1788",
+        "month": "06",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Article III",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Article_Three_of_the_United_States_Constitution\">Read on Wikipedia</a><br/>Judicial Branch.</p>"
+      },
+      "media": {
+        "url": "../images/article-3.jpg",
+        "caption": "Article III",
+        "credit": ""
+      },
+      "group": "Articles"
+    },
+    {
+      "start_date": {
+        "year": "1788",
+        "month": "06",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Article IV",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Article_Four_of_the_United_States_Constitution\">Read on Wikipedia</a><br/>States, Citizenship, New States.</p>"
+      },
+      "media": {
+        "url": "../images/article-4.jpg",
+        "caption": "Article IV",
+        "credit": ""
+      },
+      "group": "Articles"
+    },
+    {
+      "start_date": {
+        "year": "1788",
+        "month": "06",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Article V",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Article_Five_of_the_United_States_Constitution\">Read on Wikipedia</a><br/>Amendment Process.</p>"
+      },
+      "media": {
+        "url": "../images/article-5.jpg",
+        "caption": "Article V",
+        "credit": ""
+      },
+      "group": "Articles"
+    },
+    {
+      "start_date": {
+        "year": "1788",
+        "month": "06",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Article VI",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Article_Six_of_the_United_States_Constitution\">Read on Wikipedia</a><br/>Supremacy, Debts, Oaths.</p>"
+      },
+      "media": {
+        "url": "../images/article-6.jpg",
+        "caption": "Article VI",
+        "credit": ""
+      },
+      "group": "Articles"
+    },
+    {
+      "start_date": {
+        "year": "1788",
+        "month": "06",
+        "day": "21"
+      },
+      "text": {
+        "headline": "Article VII",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Article_Seven_of_the_United_States_Constitution\">Read on Wikipedia</a><br/>Ratification.</p>"
+      },
+      "media": {
+        "url": "../images/article-7.jpg",
+        "caption": "Article VII",
+        "credit": ""
+      },
+      "group": "Articles"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "First Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Freedom of religion, speech, press, assembly, & petition.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-1.jpg",
+        "caption": "First Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Second Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Right to keep and bear arms.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-2.jpg",
+        "caption": "Second Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Third Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Third_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Quartering of soldiers.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-3.jpg",
+        "caption": "Third Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Fourth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Fourth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Freedom from unreasonable searches & seizures.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-4.jpg",
+        "caption": "Fourth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Fifth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Rights in criminal cases, due process, eminent domain.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-5.jpg",
+        "caption": "Fifth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Sixth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Sixth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Right to a fair, speedy trial.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-6.jpg",
+        "caption": "Sixth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Seventh Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Seventh_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Right to trial by jury in civil cases.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-7.jpg",
+        "caption": "Seventh Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Eighth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Eighth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Freedom from excessive bail, fines, cruel & unusual punishment.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-8.jpg",
+        "caption": "Eighth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Ninth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Ninth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Non\u2011enumerated rights retained by the people.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-9.jpg",
+        "caption": "Ninth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1791",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Tenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Tenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Powers not delegated are reserved to states or people.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-10.jpg",
+        "caption": "Tenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1795",
+        "month": "02",
+        "day": "07"
+      },
+      "text": {
+        "headline": "Eleventh Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Eleventh_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Limits suits against states.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-11.jpg",
+        "caption": "Eleventh Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1804",
+        "month": "06",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Twelfth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twelfth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Revises presidential election procedures.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-12.jpg",
+        "caption": "Twelfth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1865",
+        "month": "12",
+        "day": "06"
+      },
+      "text": {
+        "headline": "Thirteenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Abolishes slavery.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-13.jpg",
+        "caption": "Thirteenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1868",
+        "month": "07",
+        "day": "09"
+      },
+      "text": {
+        "headline": "Fourteenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Citizenship, due process & equal protection.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-14.jpg",
+        "caption": "Fourteenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1870",
+        "month": "02",
+        "day": "03"
+      },
+      "text": {
+        "headline": "Fifteenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Prohibits denial of vote by race or color.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-15.jpg",
+        "caption": "Fifteenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1913",
+        "month": "02",
+        "day": "03"
+      },
+      "text": {
+        "headline": "Sixteenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Income tax authorization.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-16.jpg",
+        "caption": "Sixteenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1913",
+        "month": "04",
+        "day": "08"
+      },
+      "text": {
+        "headline": "Seventeenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Direct election of Senators.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-17.jpg",
+        "caption": "Seventeenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1919",
+        "month": "01",
+        "day": "16"
+      },
+      "text": {
+        "headline": "Eighteenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Prohibition of alcohol.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-18.jpg",
+        "caption": "Eighteenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1920",
+        "month": "08",
+        "day": "18"
+      },
+      "text": {
+        "headline": "Nineteenth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Women's suffrage.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-19.jpg",
+        "caption": "Nineteenth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1933",
+        "month": "01",
+        "day": "23"
+      },
+      "text": {
+        "headline": "Twentieth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Presidential & Congressional terms; succession.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-20.jpg",
+        "caption": "Twentieth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1933",
+        "month": "12",
+        "day": "05"
+      },
+      "text": {
+        "headline": "Twenty\u2011First Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Repeals Prohibition (18th).</p>"
+      },
+      "media": {
+        "url": "../images/amendment-21.jpg",
+        "caption": "Twenty\u2011First Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1951",
+        "month": "02",
+        "day": "27"
+      },
+      "text": {
+        "headline": "Twenty\u2011Second Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Presidential term limits.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-22.jpg",
+        "caption": "Twenty\u2011Second Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1961",
+        "month": "03",
+        "day": "29"
+      },
+      "text": {
+        "headline": "Twenty\u2011Third Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>DC electoral votes.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-23.jpg",
+        "caption": "Twenty\u2011Third Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1964",
+        "month": "01",
+        "day": "23"
+      },
+      "text": {
+        "headline": "Twenty\u2011Fourth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twenty-fourth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Abolishes poll taxes.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-24.jpg",
+        "caption": "Twenty\u2011Fourth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1967",
+        "month": "02",
+        "day": "10"
+      },
+      "text": {
+        "headline": "Twenty\u2011Fifth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Presidential disability & succession.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-25.jpg",
+        "caption": "Twenty\u2011Fifth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1971",
+        "month": "07",
+        "day": "01"
+      },
+      "text": {
+        "headline": "Twenty\u2011Sixth Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Voting age lowered to 18.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-26.jpg",
+        "caption": "Twenty\u2011Sixth Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    },
+    {
+      "start_date": {
+        "year": "1992",
+        "month": "05",
+        "day": "07"
+      },
+      "text": {
+        "headline": "Twenty\u2011Seventh Amendment",
+        "text": "<p><a href=\"https://en.wikipedia.org/wiki/Twenty-seventh_Amendment_to_the_United_States_Constitution\">Read on Wikipedia</a><br/>Congressional pay restraints.</p>"
+      },
+      "media": {
+        "url": "../images/amendment-27.jpg",
+        "caption": "Twenty\u2011Seventh Amendment",
+        "credit": ""
+      },
+      "group": "Amendments"
+    }
+  ]
+}
