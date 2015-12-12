@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Timeline of The United States Constitution</title>
+    <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: #34495e;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Interactive Timeline of The United States Constitution</h1>
+    </header>
+
+    <nav>
+        <a href="..">Home</a>
+        <a href="../documents">Documents</a>
+        <a href="social.html">Discussion</a>
+    </nav>
+
+    <main>
+        <p id="loading-message">Loading Timeline, please wait...</p>
+        <div id="timeline-embed" style="width: 100%; height: 600px;"></div>
+    </main>
+
+    <footer>
+        <p>Essential Liberty, Eternal Stories.</p>
+        <p>© 2025 All of U.S. All rights reserved.</p>
+    </footer>
+
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <script>
+        async function loadJSONFiles(filePaths) {
+            try {
+                const responses = await Promise.all(filePaths.map(path => fetch(path).then(res => res.json())));
+                const mergedData = { events: [] };
+
+                responses.forEach(data => {
+                    if (data.events && Array.isArray(data.events)) {
+                        mergedData.events = mergedData.events.concat(data.events);
+                    } else {
+                        console.warn(`File ${path} did not contain a valid events array.`);
+                    }
+                });
+
+                return mergedData;
+            } catch (error) {
+                console.error('Error loading JSON files:', error);
+                document.getElementById('loading-message').innerText = 'An error occurred while loading the timeline data.';
+                throw error;
+            }
+        }
+
+        window.onload = function() {
+            const timelineContainer = document.getElementById('timeline-embed');
+            if (!timelineContainer) {
+                console.error('Timeline container #timeline-embed not found');
+                document.getElementById('loading-message').innerText = 'Error: Timeline container not found.';
+                return;
+            }
+
+            console.log('Timeline container found. Initializing timeline...');
+
+            document.getElementById('loading-message').style.display = 'none';
+
+            const files = [
+                '../data/timeline.json',
+            ];
+
+            loadJSONFiles(files).then(mergedData => {
+                console.log('Merged Data:', mergedData);
+                window.timeline = new TL.Timeline('timeline-embed', mergedData);
+            }).catch(error => {
+                console.error('Error initializing the timeline:', error);
+                document.getElementById('loading-message').innerText = 'An error occurred while loading the timeline.';
+            });
+        };
+    </script>
+</body>
+</html>
+
